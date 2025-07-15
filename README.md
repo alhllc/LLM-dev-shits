@@ -9,3 +9,5 @@
 
 
 
+### saved for later:
+* https://docs.github.com/en/github-models/use-github-models/prototyping-with-ai-models
