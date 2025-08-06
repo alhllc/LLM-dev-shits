@@ -36,7 +36,7 @@ ai-gpt-dev-wiki/
 │  ├─ rules_guidelines.md    → coding / prompting conventions, safety rules
 │  └─ references.md          → curated reading list, papers, links
 │
-├─ personal/                 → **private** personal context (git-ignored 🔒)
+├─ personal/                 → personal context (tracked publicly)
 │  ├─ personal_details_template.md
 │  └─ user_history.md        → summary of your notable requests / prefs
 │
